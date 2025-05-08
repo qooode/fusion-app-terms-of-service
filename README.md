@@ -4,6 +4,16 @@
 
 Welcome to Fusion App ("Fusion," "the App"). These Terms of Service ("Terms") govern your use of Fusion. By downloading, accessing, or using Fusion, you agree to be bound by these Terms. If you do not agree to these Terms, do not use Fusion.
 
+## Parties and Definitions
+
+These Terms of Service ("Terms") constitute a legally binding agreement between:
+
+- **Service Provider/We/Us/Our**: Marian Marian, the owner and operator of the Fusion App, contactable at diffusiocreatio@gmail.com, hereinafter referred to as "Fusion," "we," "us," or "our."
+
+- **User/You/Your**: Any individual who downloads, accesses, or uses the Fusion App, hereinafter referred to as "User," "you," or "your."
+
+Throughout these Terms, the terms "Fusion App" and "the App" refer to the application known as Fusion, including all its features and functionalities.
+
 ## 1. App Usage
 
 *   **License:** Fusion grants you a limited, non-exclusive, non-transferable, revocable license to use the App for your personal, non-commercial use on devices that you own or control, subject to these Terms.
